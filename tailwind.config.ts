@@ -12,6 +12,7 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         peach: "#ffe9d9",
+        sPink: "#cdb9ab"
       },
     },
   },

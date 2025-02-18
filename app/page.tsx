@@ -11,7 +11,9 @@ export default function Home() {
         <Box3D />
       </div>
 
-
+      <div className='w-full h-screen bg-sPink mt-10 flex items-center justify-center'>
+        <h1 className='text-white text-6xl leading-none font-normal'>Your next section goes here.</h1>
+      </div>
     </div>
   );
 }
